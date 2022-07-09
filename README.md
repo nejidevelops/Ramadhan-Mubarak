@@ -3,6 +3,7 @@
 ## By Newton Ombese
 
 ### About
-
 This is a project based on wishing all Muslims a happy and peaceful Mubarak.
-Much Love Brothers and Sisters and may Allah answer out your pleas
+Much Love Brothers and Sisters and may Allah answer out your pleas.
+
+REmember Me with a plate of Rice :(:(:(:(
