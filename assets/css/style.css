@@ -63,7 +63,7 @@ section h2::before{
     background-size: 1200px;
     z-index: 1;
     pointer-events: none;
-    animation: animate 10s linear infinite;
+    animation: animate 20s linear infinite;
 }
 
 @keyframes animate {
