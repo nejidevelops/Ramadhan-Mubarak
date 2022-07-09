@@ -68,7 +68,7 @@ section h2::before{
 
 @keyframes animate {
     0%{
-        background-position: 0%;
+        background-position: 0;
     }
     100%{
         background-position: 1200px;
@@ -99,3 +99,4 @@ section h2::before{
         background-position: 0;
     }
 }
+
