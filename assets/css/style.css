@@ -37,3 +37,17 @@ section h2 span{
     font-size: 30px;
     font-family: sans-serif;
 }
+
+section h2::before{
+    content: '';
+    position: absolute;
+    top: -44px;
+    left: -100px;
+    width: 150px;
+    height:150px;
+    background:transparent;
+    border-left: 15px solid #fff;
+    border-radius: 50%;
+    transform: rotate(-30deg);
+    box-shadow: -14px 1px 10px rgba(0,0,0,0.1);
+}
